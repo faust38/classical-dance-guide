@@ -8,9 +8,9 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Классика МОС",
+    pageTitle: "Классика",
     pageTitleSuffix: " | Классический танец",
-    enableSPA: true,
+    enableSPA: false,
     enablePopovers: true,
     analytics: null,
     locale: "ru-RU",
