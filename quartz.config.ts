@@ -8,25 +8,25 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "Классика МОС",
+    pageTitleSuffix: " | Классический танец",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    analytics: null,
+    locale: "ru-RU",
+    baseUrl: "https://faust38.github.io/classical-dance-guide",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
-      fontOrigin: "googleFonts",
+      fontOrigin: "none",
       cdnCaching: true,
+      defaultTheme: "dark",
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Georgia, Times New Roman, serif",
+        body: "Georgia, Times New Roman, serif",
+        code: "Courier New, monospace",
       },
+      
       colors: {
         lightMode: {
           light: "#faf8f8",
@@ -40,15 +40,15 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#2e261f",           // основной фон
+          lightgray: "#26211c",       // фон боковой панели
+          gray: "#676c59",            // границы, номера
+          darkgray: "#ab8f68",        // текст в боковой панели (ОСТАВЛЯЕМ)
+          dark: "#ebcc96",            // ОСНОВНОЙ ТЕКСТ (ОБНОВЛЕНО)
+          secondary: "#e5aa1f",       // ссылки
+          tertiary: "#44add1",        // курсив (оставляем голубой)
+          highlight: "rgba(243, 80, 68, 0.3)",
+          textHighlight: "#ff7847",   // ВЫДЕЛЕНИЯ **текст** (ОБНОВЛЕНО)
         },
       },
     },
@@ -62,7 +62,7 @@ const config: QuartzConfig = {
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
-          dark: "github-dark",
+          dark: "one-dark-pro",
         },
         keepBackground: false,
       }),
@@ -88,8 +88,6 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
     ],
   },
 }

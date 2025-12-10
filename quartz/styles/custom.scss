@@ -1,3 +1,129 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+/* ВАШИ ЦВЕТА - ТОЛЬКО НУЖНЫЕ ПЕРЕОПРЕДЕЛЕНИЯ */
+
+/* ОСНОВНОЙ ТЕКСТ - только для body и основных элементов */
+body {
+  background-color: #2e261f !important;
+  color: #ebcc96 !important;
+  font-family: Georgia, Times New Roman, serif !important;
+  font-size: 18px !important;
+}
+
+/* Абзацы и основной контент */
+p, li, td {
+  color: #ebcc96 !important;
+}
+
+/* ССЫЛКИ - ЗОЛОТИСТЫЕ */
+a {
+  color: #e5aa1f !important;
+  background-color: transparent !important;
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: #f2c040 !important;
+  background-color: transparent !important;
+  text-decoration: underline !important;
+}
+
+/* ЗАГОЛОВКИ - СВЕТЛО-БЕЖЕВЫЕ */
+h1, h2, h3, h4, h5, h6 {
+  color: #ebdac6 !important;
+}
+
+/* ЖИРНЫЙ ТЕКСТ (**текст**) - КРАСНЫЙ */
+strong, b {
+  color: #f3503c !important;                 // ИЗМЕНЕНО НА #f3503c
+  background-color: transparent !important;
+  font-weight: 700 !important;
+}
+
+/* КУРСИВ (_текст_) - ГОЛУБОЙ */
+em, i {
+  color: #44add1 !important;
+  background-color: transparent !important;
+  font-style: italic !important;
+}
+
+/* КОД */
+pre, code {
+  background-color: #26211c !important;
+  color: #ebdac6 !important;
+  border: 1px solid #676c59 !important;
+  border-radius: 4px !important;
+}
+
+pre {
+  padding: 1em !important;
+}
+
+code {
+  padding: 0.2em 0.4em !important;
+}
+
+/* БОКОВАЯ ПАНЕЛЬ */
+.sidebar, nav, aside, .left-sidebar, .right-sidebar {
+  background-color: #26211c !important;
+  color: #ab8f68 !important;
+  border-color: #676c59 !important;
+}
+
+/* Ссылки в боковой панели */
+.sidebar a, nav a, aside a {
+  color: #ab8f68 !important;
+  background-color: transparent !important;
+}
+
+.sidebar a:hover, nav a:hover, aside a:hover {
+  color: #ebcc96 !important;
+  background-color: transparent !important;
+}
+
+/* СПИСКИ */
+ul, ol {
+  color: #ebcc96 !important;
+}
+
+li {
+  color: #ebcc96 !important;
+}
+
+/* ТАБЛИЦЫ */
+table {
+  border: 1px solid #676c59 !important;
+  border-collapse: collapse !important;
+}
+
+th {
+  background-color: #26211c !important;
+  color: #ebdac6 !important;
+  padding: 0.8em !important;
+  border: 1px solid #676c59 !important;
+}
+
+td {
+  background-color: #2e261f !important;
+  color: #ebcc96 !important;
+  padding: 0.8em !important;
+  border: 1px solid #676c59 !important;
+}
+
+/* БЛОКИ ЦИТАТ */
+blockquote {
+  background-color: #26211c !important;
+  border-left: 4px solid #e5aa1f !important;
+  color: #ab8f68 !important;
+  padding: 1em !important;
+  margin: 1.5em 0 !important;
+  border-radius: 0 4px 4px 0 !important;
+}
+
+/* ФУТЕР */
+footer {
+  background-color: #26211c !important;
+  color: #ab8f68 !important;
+  border-top: 1px solid #676c59 !important;
+  padding: 1em 0 !important;
+}

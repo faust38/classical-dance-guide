@@ -1,0 +1,85 @@
+:root {
+  /* Основные цвета (взято из твоей темы) */
+  --bg: #1c1b19;              /* основной тёмно-коричневый фон */
+  --bg-secondary: #23221f;     /* чуть светлее, для блоков */
+  --text: #d7c9ae;             /* основной текст (теплый бежевый) */
+  --text-muted: #a8977b;       /* второстепенный текст */
+  --heading: #e8dcc2;          /* заголовки — светлее */
+  --link: #c9aa71;             /* ссылки — золотистые */
+  --link-hover: #e3c68f;       /* ссылки при наведении */
+  --code-bg: #2a2825;          /* фон для кода */
+  --border: #3a332d;           /* рамки / разделители */
+}
+
+/* Фон страницы */
+body {
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+/* Сайдбар, панель навигации */
+.sidebar,
+.left,
+.right {
+  background-color: var(--bg-secondary) !important;
+  color: var(--text);
+  border-color: var(--border) !important;
+}
+
+/* Заголовки */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--heading);
+  font-weight: 600;
+}
+
+/* Ссылки */
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+
+/* Код */
+code, pre {
+  background-color: var(--code-bg) !important;
+  color: var(--heading);
+  border-radius: 6px;
+}
+
+/* Теги, кнопки */
+.tag {
+  background-color: var(--bg-secondary);
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+}
+
+/* Блоки цитат */
+blockquote {
+  background-color: var(--bg-secondary);
+  border-left: 4px solid var(--link);
+  color: var(--text);
+}
+
+/* Таблицы */
+table {
+  border-color: var(--border);
+}
+th {
+  background-color: var(--bg-secondary);
+  color: var(--heading);
+}
+td {
+  background-color: var(--bg);
+  border-color: var(--border);
+}
+
+/* Поле поиска */
+input[type="search"] {
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border);
+  color: var(--text);
+}
