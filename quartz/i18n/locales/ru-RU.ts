@@ -73,7 +73,7 @@ export default {
       home: "Вернуться на главную страницу",
     },
     folderContent: {
-      folder: "Папка",
+      folder: "Главная",
       itemsUnderFolder: ({ count }) =>
         `в этой папке ${count} элемент${getForm(count, "", "а", "ов")}`,
     },
