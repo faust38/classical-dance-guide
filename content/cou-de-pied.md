@@ -2,6 +2,10 @@
 created: 2025-12-09
 tags:
   - классика
+aliases:
+  - sur le cou-de-pied
+  - кудепье
+  - ку де gmt
 ---
 
 # Кудепье | cou-de-pied
@@ -32,14 +36,14 @@ tags:
 ## Связанные заметки
 
 -  [[Классика MOC]]
-1. [[Плие]]
-2. [[Батман тандю]]
-3. [[Батман жете]]
-4. [[Ронд де жамб партер]]
-5. [[Батман фондю]]
-6. [[Батман сотеню]]
-7. [[Батман фраппе]]
-8. [[Ронд де жамб анлиер]]
-9. [[Пти батман]]
-10. [[Адажио]]
+1. [[Plie]]
+2. [[Battement tendu]]
+3. [[Battement jeté]]
+4. [[Rond de jambe par terre]]
+5. [[Battement Fondu]]
+6. [[Battement soutenu]]
+7. [[Battement frappe]]
+8. [[Rond de jambe en l'air]]
+9. [[Petit Battement]]
+10. [[Battement Relevé Lent]]
 11. [[Гранд батман]]
