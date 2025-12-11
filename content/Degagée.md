@@ -1,5 +1,5 @@
 ---
-created: 2025-12-09
+title: Дегаже | Degagée
 tags:
   - классика
 aliases:
@@ -7,7 +7,7 @@ aliases:
   - degagée
 ---
 
-# Дегаже
+# Дегаже | Degagée
 
 Термин **Degagée (дегаже́)** происходит от французского глагола, означающего «освобождать». В контексте классического танца это **вспомогательное движение**, которое служит для **отведения ноги на нужную высоту для последующего перехода на неё**.
 
@@ -27,3 +27,20 @@ aliases:
     - _Tour_ с _degagée_ _en dedans_ (внутрь) также изучается в последовательности движений.
 
 Таким образом, _degagée_ — это не просто отведение ноги, а технический прием, который **активно используется в качестве подготовительного или связующего элемента для осуществления сложных переходов и вращений** в классическом экзерсисе, особенно в средних и старших классах.
+
+## Связанные заметки
+
+-  [[index|Классика MOC]]
+1. [[Plie|Plie(Плие)]]
+2. [[Battement tendu|Battement tendu(Батман тандю)]]
+3. [[Battement jeté|Battement tendu jeté (Батман жете)]]
+4. [[Rond de jambe par terre|Rond de jambe par terre (Ронд же жамб партер)]]
+5. [[Battement Fondu|Battement fondu(Батман Фондю)]]
+6. [[Battement soutenu|Battement soutenu(Батман сотеню)]]
+7. [[Battement frappe|Battement frappe(Батман фраппе)]]
+8. [[Rond de jambe en l'air|Rond de jambe en l'air(Ронд де жамб Анлиер)]]
+9. [[Petit Battement|Petit Battement(Пти батман)]]
+10. [[Adagio у палки|Adagio у палки(Адажио)]]
+11. [[Battement Relevé Lent|Battement Relevé Lent(Релеве лян)]]
+12. [[Battement developpe|Battement developpe(девлоппе)]]
+13. [[Grand battement jete]]

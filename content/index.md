@@ -1,13 +1,14 @@
 ---
+title: Классика
+tags:
+  - MOC
+  - классика
 aliases:
   - Классика
   - Классический танец
   - Экзерсис у станка
   - Станок
-share_link: https://share.note.sx/zybkn7ti#aJ4s4zKTCv3bPkSTUY9+Pon3T/2f2sGuTjPLt011Dw4
-share_updated: 2025-12-07T19:32:09+03:00
 ---
-
 # Классика 
 
 **Важно**. Изучения любого pas должно быть постепенным от схематической формы до танцевальной. Также и вся наука танца, постепенное усложнение. Иначе никак. 
@@ -29,17 +30,23 @@ Allegro имеет особое значение. Весь экзерсис по
 10. [[Adagio у палки|Adagio у палки(Адажио)]]
 11. [[Battement Relevé Lent|Battement Relevé Lent(Релеве лян)]]
 12. [[Battement developpe|Battement developpe(девлоппе)]]
-13. [[Гранд батман]]
+13. [[Grand battement jete]]
 
 Доп.
-[[En Dehors  En Dedans]]
-[[cou-de-pied]]
-[[preparation]]
-[[Degagée]]
-[[Arabesque]]
+[[En Dehors  En Dedans]],
+[[cou-de-pied]],
+[[preparation]],
+[[Degagée]],
+[[Arabesque]],
 
 
 Книги:
 - [[Основы классического танца]]
 - [[Азбука классического танца]]
 
+
+---
+> [!Link]-  **Ссылки на текущую заметку**
+> ``` dataview
+> table without id file.inlinks as "Какие заметки ссылаются" where file.name = this.file.name 
+> ```

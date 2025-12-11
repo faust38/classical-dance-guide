@@ -1,5 +1,5 @@
 ---
-created: 2025-12-09
+title: Препарасьон | preparation
 tags:
   - классика
 aliases:
@@ -48,3 +48,21 @@ _Preparation_ выполняет несколько ключевых функц�
 - **Младшие классы (Первый год):** В конце первого года обучения _preparation_ (подготовительное движение рук) уже вводится в экзерсис у палки.
 - **Второй год обучения:** _Preparation_ используется перед _grand changement de pieds_, _petit changement de pieds_ и другими прыжками, а также перед _pas de bourrée_.
 - **Старшие классы:** В _adagio_ и _allegro_ _preparation_ становится более сложным, часто включает **полные _port de bras_**, повороты, и служит для взятия _force_ перед большими _tours_.
+
+
+## Связанные заметки
+
+-  [[index|Классика MOC]]
+1. [[Plie|Plie(Плие)]]
+2. [[Battement tendu|Battement tendu(Батман тандю)]]
+3. [[Battement jeté|Battement tendu jeté (Батман жете)]]
+4. [[Rond de jambe par terre|Rond de jambe par terre (Ронд же жамб партер)]]
+5. [[Battement Fondu|Battement fondu(Батман Фондю)]]
+6. [[Battement soutenu|Battement soutenu(Батман сотеню)]]
+7. [[Battement frappe|Battement frappe(Батман фраппе)]]
+8. [[Rond de jambe en l'air|Rond de jambe en l'air(Ронд де жамб Анлиер)]]
+9. [[Petit Battement|Petit Battement(Пти батман)]]
+10. [[Adagio у палки|Adagio у палки(Адажио)]]
+11. [[Battement Relevé Lent|Battement Relevé Lent(Релеве лян)]]
+12. [[Battement developpe|Battement developpe(девлоппе)]]
+13. [[Grand battement jete]]

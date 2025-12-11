@@ -1,10 +1,8 @@
 ---
-created: 2025-12-04
+title: Батман жете | battement tendu jeté
 tags:
   - классика
-  - 🌳
-share_link: https://share.note.sx/prgr69te#xSIt2lV9l5dU3PBkmFuZ/B73UKLSAmxbpv6/kbhww3k
-share_updated: 2025-12-07T18:47:04+03:00
+  - Экзерсис
 aliases:
   - жэтэ
   - жете
@@ -68,15 +66,17 @@ aliases:
 
 ## Связанные заметки
 
--  [[Классика MOC]]
-1. [[Plie]]
-2. [[Battement tendu]]
-3. [[Battement jeté]]
-4. [[Rond de jambe par terre]]
-5. [[Battement Fondu]]
-6. [[Battement soutenu]]
-7. [[Battement frappe]]
-8. [[Rond de jambe en l'air]]
-9. [[Petit Battement]]
-10. [[Battement Relevé Lent]]
-11. [[Гранд батман]]
+-  [[index|Классика MOC]]
+1. [[Plie|Plie(Плие)]]
+2. [[Battement tendu|Battement tendu(Батман тандю)]]
+3. [[Battement jeté|Battement tendu jeté (Батман жете)]]
+4. [[Rond de jambe par terre|Rond de jambe par terre (Ронд же жамб партер)]]
+5. [[Battement Fondu|Battement fondu(Батман Фондю)]]
+6. [[Battement soutenu|Battement soutenu(Батман сотеню)]]
+7. [[Battement frappe|Battement frappe(Батман фраппе)]]
+8. [[Rond de jambe en l'air|Rond de jambe en l'air(Ронд де жамб Анлиер)]]
+9. [[Petit Battement|Petit Battement(Пти батман)]]
+10. [[Adagio у палки|Adagio у палки(Адажио)]]
+11. [[Battement Relevé Lent|Battement Relevé Lent(Релеве лян)]]
+12. [[Battement developpe|Battement developpe(девлоппе)]]
+13. [[Grand battement jete]]
