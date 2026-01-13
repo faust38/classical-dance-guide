@@ -37,3 +37,20 @@ aliases:
 А. Я. Ваганова подчеркивала, что через _temps lié_ танцовщица находит **соответствие между головой, руками и корпусом**, что является огромным шагом в овладении «игрой тела». Это упражнение превращает механические шаги в искусство, подготавливая ученика к исполнению сложных _adagio_ на сцене.
 
 **Метафора:** _Temps lié_ в балете — это как **связующая нить в жемчужном ожерелье**. Отдельные позы и шаги — это прекрасные жемчужины, но только благодаря невидимой и плавной «нити» переноса веса и координации они становятся единым, гармоничным украшением, а не просто набором разрозненных элементов.
+
+## Связанные заметки
+
+-  [[index|Классика MOC]]
+1. [[Plie|Plie(Плие)]]
+2. [[Battement tendu|Battement tendu(Батман тандю)]]
+3. [[Battement jeté|Battement tendu jeté (Батман жете)]]
+4. [[Rond de jambe par terre|Rond de jambe par terre (Ронд же жамб партер)]]
+5. [[Battement Fondu|Battement fondu(Батман Фондю)]]
+6. [[Battement soutenu|Battement soutenu(Батман сотеню)]]
+7. [[Battement frappe|Battement frappe(Батман фраппе)]]
+8. [[Rond de jambe en l'air|Rond de jambe en l'air(Ронд де жамб Анлиер)]]
+9. [[Petit Battement|Petit Battement(Пти батман)]]
+10. [[Adagio у палки|Adagio у палки(Адажио)]]
+11. [[Battement Relevé Lent|Battement Relevé Lent(Релеве лян)]]
+12. [[Battement developpe|Battement developpe(девлоппе)]]
+13. [[Grand battement jete]]
