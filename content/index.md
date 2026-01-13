@@ -33,12 +33,13 @@ Allegro имеет особое значение. Весь экзерсис по
 13. [[Grand battement jete]]
 
 Доп.
-[[En Dehors  En Dedans]],
-[[cou-de-pied]],
-[[preparation]],
-[[Degagée]],
-[[Arabesque]],
-
+[[En Dehors  En Dedans]]
+[[cou-de-pied]]
+[[preparation]]
+[[Degagée]]
+[[Arabesque]]
+[[Основные позы классического танца]]
+[[Temps lie|Temps lie (Танлие)]]
 
 Книги:
 - [[Основы классического танца]]
@@ -46,7 +47,3 @@ Allegro имеет особое значение. Весь экзерсис по
 
 
 ---
-> [!Link]-  **Ссылки на текущую заметку**
-> ``` dataview
-> table without id file.inlinks as "Какие заметки ссылаются" where file.name = this.file.name 
-> ```
